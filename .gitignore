@@ -1,0 +1,55 @@
+# Local .terraform directories
+.terraform/
+
+# Terraform .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+
+# Exclude override files as they are usually used to override resources locally
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Exclude CLI configuration files
+.terraformrc
+terraform.rc
+
+# Ignore sensitive files
+*.pem
+*.key
+*.enc
+*.jks
+
+# Ignore SSH key files
+*.pub
+
+# Ignore environment variable files
+.env
+.env.*
+
+# Ignore any temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore logs and temporary files
+*.log
+
+# Ignore specific IDE or editor files
+.idea/
+.vscode/
+*.iml
+
+# Ignore node_modules and other dependencies
+node_modules/
