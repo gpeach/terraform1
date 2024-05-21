@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"dbservermodule","Source":"./ec2","Dir":"ec2"},{"Key":"eipmodule","Source":"./eip","Dir":"eip"},{"Key":"providermodule","Source":"./provider","Dir":"provider"},{"Key":"securitygroupmodule","Source":"./securitygroup","Dir":"securitygroup"},{"Key":"webservermodule","Source":"./ec2","Dir":"ec2"}]}
